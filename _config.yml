@@ -1,19 +1,14 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-title: Tecnako
+title: My Resume
+url: 'http://josearcosaneas.github.io'
+baseurl: '/online-cv'
+style: styles-6
+name: José Arcos Aneas
+tagline: Computer Engineer
+pic: profile.jpg
 email: joseytodas@gmail.com
-description: "En este blog mostraré algunas cosas que son de mi interés y que espero que también sean de más gente."
-baseurl: "/blog"
-url: "http://josearcosaneas.github.io" # the base hostname & protocol for your site
-twitter_username: jarcos20
-github_username:  josearcosaneas
+phone: 605511730
+website: josearcosaneas.github.io
+linkedin: josearcosaneas
+github: josearcosaneas
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
