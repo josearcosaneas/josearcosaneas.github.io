@@ -1,7 +1,7 @@
 
 title: My Resume
 url: 'http://josearcosaneas.github.io'
-baseurl: '/online-cv'
+# baseurl: /online-cv
 style: styles-6
 name: José Arcos Aneas
 tagline: Computer Engineer
