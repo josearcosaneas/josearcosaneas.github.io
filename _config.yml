@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
 copyright_name: José Arcos Aneas /Blog Personal
 description: "Mi blog personal sobre Big Data y Data Science"
-baseurl: "/home"
+
 url: "http://josearcosaneas.github.io"
 github_username:  josearcosaneas
 facebook_username:  jarcos1990
@@ -22,7 +22,7 @@ linkedin: josearcosaneas
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: pretty
+
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
