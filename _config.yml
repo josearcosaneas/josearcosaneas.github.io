@@ -1,14 +1,29 @@
-
-title: My Resume
-url: 'http://josearcosaneas.github.io'
-# baseurl: /online-cv
-style: styles-6
+# Site settings
+title: Mi Blog
+header-img: img/home-bg.jpg
+email: your-email@yourdomain.com
+copyright_name: José Arcos Aneas /Blog Personal
+description: "Mi blog personal sobre Big Data y Data Science"
+baseurl: "/home"
+url: "http://josearcosaneas.github.io"
+github_username:  josearcosaneas
+facebook_username:  jarcos1990
+email_username:  jarcos1990@hotmail.com
 name: José Arcos Aneas
 tagline: Computer Engineer
 pic: profile.jpg
-email: joseytodas@gmail.com
+email: jarcos1990@hotmail.com
 phone: 605511730
-website: tecnako.github.io
 linkedin: josearcosaneas
-github: josearcosaneas
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
 
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
