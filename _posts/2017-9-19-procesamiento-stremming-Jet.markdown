@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Procesamiento Stremming con Hazelcast Jet"
-date:   2017-1-2 22:06:44 +0100
-categories: Python R procesamiento lenguaje
+date:   2017-5-2 22:06:44 +0100
+categories: Python procesamiento streaming
 ---
 ## Introducción a Jet
 
